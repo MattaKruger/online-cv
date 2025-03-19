@@ -69,7 +69,7 @@ experiences:
   title: Experiences
   info:
   - role: Full-stack developer
-    time: 2018 - 2023
+    time: 2018 - 2024
     company: Tetra B.V, Utrecht
     details: |
       - Played a key role in the design and development of a web-based logistics tracking platform from the ground up, replacing legacy .NET software, with significant autonomy in architectural design decisions, to automate daily tasks within the pharmacy industry. This included:
@@ -84,7 +84,7 @@ experiences:
       - Engaged directly with pharmacists to gather requirements, solicit feedback, and iterate on the software design to ensure it met their specific needs and workflows.
       - Developed and maintained multiple microservices using Python and FastAPI to handle logistics of pharmacies.
   - role: Backend Engineer
-    time: 2025 - 2025
+    time: 2024 - 2024
     company: Moose Agency, Alkmaar
     details: |
       - Contributed to the development of new features for an existing digital class assistant platform using Python and the Django framework.
