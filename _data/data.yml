@@ -89,7 +89,7 @@ experiences:
     details: |
       - Contributed to the development of new features for an existing digital class assistant platform using Python and the Django framework.
       - Utilized PostgreSQL as the primary database for storing and managing application data.
-      - Collaborated with a team of developers, designers, and project managers, utilizing the Scrum methodology for iterative development and project management. This included regular pair       programming sessions with senior developers to enhance code quality and knowledge transfer.
+      - Collaborated with a team of developers, designers, and project managers, utilizing the Scrum methodology for iterative development and project management. This included regular pair programming sessions with senior developers to enhance code quality and knowledge transfer.
       - Provided support and resolved technical issues for multiple client projects, addressing bug fixes and implementing enhancements based on user feedback.
       - Developed a scanner system for a student fair, creating a new environment using Django (backend) and Vue.js (frontend) to manage and track student attendance via physical scanners.
 
@@ -98,8 +98,8 @@ projects:
   intro: >
   assignments:
   - title: Docy
-    link: "#hook"
-    tagline: "A vector database based system written in python for managing documentation of opensource packages. System is used as context supply for llms"
+    link: "https://github.com/MattaKruger/docy"
+    tagline: "A vector database based system written in python for managing documentation of opensource packages. System is used as context supply for llms. This is still a work in progress."
 
 skills:
   title: Skills &amp; Proficiency
