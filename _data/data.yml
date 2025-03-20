@@ -96,9 +96,9 @@ projects:
   title: Projects
   intro: >
   assignments:
-    - title: Docy
+    - title: Docy (WIP)
       link: "https://github.com/MattaKruger/docy"
-      tagline: "A vector database based system written in python for managing documentation of opensource packages. System is used as context supply for llms. This is still a work in progress."
+      tagline: "A vector database based system written in python for managing documentation of opensource packages. System is used as context supply for llms."
 
 skills:
   title: Skills &amp; Proficiency
