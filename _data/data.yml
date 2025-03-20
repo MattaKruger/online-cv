@@ -106,13 +106,13 @@ skills:
 
   toolset:
   - name: Backend (Python, Fastapi, Django, Node.js, RESTful APIs)
-    level: 75%
+    level: 85%
   - name: Frontend (Vue2/3, Vue Native, Javascript, Typescript, Tailwind CSS, Vuetify, Quasar)
-    level: 75%
+    level: 85%
   - name: Databases (MySQL, PostgresQL, MongoDB, SQLAlchemy, Mongoose)
-    level: 70%
+    level: 80%
   - name: DevOps/Tools (Git, Docker, Kubernetes)
-    level: 50%
+    level: 60%
   - name: Other (Communication, Teamwork, Waterfall methodology, Scrum methodology, Pair programming)
-    level: 70%
+    level: 80%
 footer: >
