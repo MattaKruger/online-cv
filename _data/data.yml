@@ -8,16 +8,16 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Matthijs Kruger
+  name: Matthijs Kruger (25 years old)
   tagline: Full Stack Developer
   avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: krugermatthijs@gmail.com
   phone: 06-36599933
-  citizenship:
+  citizenship: Dutch
   website: # Include the full website URL, including "http://" or "https://".
-  linkedin:
+  linkedin: https://www.linkedin.com/in/matthijs-kruger/
   xing:
   github: mattakruger
   telegram: # add your nickname without '@' sign
