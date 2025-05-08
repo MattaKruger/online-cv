@@ -101,7 +101,7 @@ projects:
       tagline: "Docy is an AI agent orchestration and project management system, designed to automate software development workflows."
     - title: Valence (WIP)
       link: "https://github.com/MattaKruger/valence"
-      tagline: "Integrate APIs, analyze audio, visualize features"
+      tagline: "Bridging listening data and Librosa analysis through visualization."
 skills:
   title: Skills &amp; Proficiency
 
