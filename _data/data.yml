@@ -96,12 +96,9 @@ projects:
   title: Projects
   intro: >
   assignments:
-    - title: Docy (WIP)
-      link: "https://github.com/MattaKruger/docy"
-      tagline: "Docy is an AI agent orchestration and project management system, designed to automate software development workflows."
-    - title: Valence (WIP)
-      link: "https://github.com/MattaKruger/valence"
-      tagline: "Bridging listening data and Librosa analysis through visualization."
+    - title: Metta (WIP)
+      link: "https://github.com/MattaKruger/metta"
+      tagline: "Audio feature analysis, playlist generation and library clustering"
 skills:
   title: Skills &amp; Proficiency
 
