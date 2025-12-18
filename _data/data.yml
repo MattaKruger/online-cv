@@ -67,7 +67,7 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Web developer
+    - role: Python/Vue developer
       time: 2018 - 2024
       company: Tetra B.V, Utrecht
       details: |
@@ -77,10 +77,11 @@ experiences:
           - Database design and management utilizing both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, leveraging SQLAlchemy for ORM capabilities with Python and Mongoose for interactions with Node.js.
         - Developed a Vue Native (Quasar) mobile application for efficient medicine delivery during the COVID-19 pandemic, ensuring timely distribution and tracking.
         - Collaborated closely with a team of 2 developers and 1 DevOps engineer, following a Waterfall development methodology to deliver projects according to pre-defined specifications and timelines.
-        - Implemented comprehensive unit and integration testing using testing frameworks such as Pytest and Jest.
+        - Implemented unit and integration testing using testing frameworks such as Pytest and Jest.
         - Implemented and maintained secure handling of patient information, ensuring strict adherence to relevant security standards throughout the application lifecycle.
         - Actively participated in knowledge sharing and provided guidance to other team members on Vue.js best practices, API design, and database management.
         - Engaged directly with pharmacists to gather requirements, solicit feedback, and iterate on the software design to ensure it met their specific needs and workflows.
+
     - role: Python Backend developer
       time: 2024 - 2024
       company: Moose Agency, Alkmaar
