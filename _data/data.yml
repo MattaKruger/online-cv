@@ -67,7 +67,7 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Full-stack developer
+    - role: Web developer
       time: 2018 - 2024
       company: Tetra B.V, Utrecht
       details: |
@@ -81,24 +81,30 @@ experiences:
         - Implemented and maintained secure handling of patient information, ensuring strict adherence to relevant security standards throughout the application lifecycle.
         - Actively participated in knowledge sharing and provided guidance to other team members on Vue.js best practices, API design, and database management.
         - Engaged directly with pharmacists to gather requirements, solicit feedback, and iterate on the software design to ensure it met their specific needs and workflows.
-        - Developed and maintained multiple microservices using Python and FastAPI to handle logistics of pharmacies.
-    - role: Backend developer
+    - role: Python Backend developer
       time: 2024 - 2024
       company: Moose Agency, Alkmaar
       details: |
         - Contributed to the development of new features for an existing digital class assistant platform using Python and the Django framework.
         - Utilized PostgreSQL as the primary database for storing and managing application data.
-        - Collaborated with a team of developers, designers, and project managers, utilizing the Scrum methodology for iterative development and project management. This included regular pair programming sessions with senior developers to enhance code quality and knowledge transfer.
+        - Collaborated with a team of developers, designers, and project managers, utilizing the Scrum methodology for iterative development and project management. This included regular sessions with senior developers to enhance code quality and knowledge transfer.
         - Provided support and resolved technical issues for multiple client projects, addressing bug fixes and implementing enhancements based on user feedback.
         - Developed a scanner system for a student fair, creating a new environment using Django (backend) and Vue.js (frontend) to manage and track student attendance via physical scanners.
-
+    - role: PHP Backend developer
+      time: 2025 - 2025
+      company: Atabix, Amsterdam
+      details: |
+        - Contributed to the backend development of the IMG damage calculation tool for Groningen earthquakes, utilizing PHP, Laravel, and MySQL.
+        - Collaborated closely within a team of 8 developers, following Agile methodologies with daily standups and bi-monthly sprints.
+        - Managed tickets and workflows using Jira, ensuring efficient tracking of development progress.
+        - Worked directly with business analysts to implement complex features and requirements.
 projects:
   title: Projects
   intro: >
   assignments:
     - title: Metta (WIP)
       link: "https://github.com/MattaKruger/metta"
-      tagline: "Audio feature analysis, playlist generation and library clustering"
+      tagline: "Audio feature analysis, playlist generation and library clustering using fastapi/postgresql and librosa/sklearn"
 skills:
   title: Skills &amp; Proficiency
 
@@ -110,7 +116,5 @@ skills:
     - name: Databases (MySQL, PostgresQL, MongoDB, SQLAlchemy, Mongoose)
       level: 80%
     - name: DevOps/Tools (Git, Docker, Kubernetes)
-      level: 60%
-    - name: Other (Communication, Teamwork, Waterfall methodology, Scrum methodology, Pair programming)
-      level: 80%
+      level: 40%
 footer: >
